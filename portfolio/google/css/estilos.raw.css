@@ -1,0 +1,167 @@
+/* Estilos Gerais */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+p {
+  font-size: 15px;
+}
+
+/* Header */
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fff;
+  padding: 10px 0px;
+  z-index: 99;
+}
+
+.header_menu {
+  text-align: right;
+  margin-right: 15px;
+}
+
+.header_menu ul li {
+  display: inline-block;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.header_menu ul li a {
+  color: #8f8f8f;
+  text-transform: capitalize;
+  font-size: 13px;
+  line-height: 24px;
+  padding: 5px;
+}
+
+.header_menu ul li a:hover {
+    text-decoration: underline;
+  }
+
+.central {
+  width: 520px;
+  height: 320px;
+  margin: 0px 220px;
+}
+
+.central img {
+  text-align: center;
+}
+
+.logo {
+  width: 100%;
+  height: 200px;
+  background: url("../img/Google_logo.svg.png") no-repeat center;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.busca {
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  text-align: center;
+  height: 40px;
+  width: 500px;
+  /*margin-left: 240px;*/
+}
+
+.busca input {
+  width: 420px;
+  border: transparent;
+  text-align: center;
+}
+
+.busca img {
+  width: 24px;
+  height: 24px;
+  padding-top: 5px;
+  display: inline-block;
+  text-align: center;
+}
+
+.botao {
+  margin: 20px;
+  text-align: center;
+}
+
+.botao button {
+  background-color: #f2f2f2;
+  color: #f2f2f2;
+  border-radius: 5px;
+  border: none;
+}
+
+.botao button:hover {
+  background-color: #ccc;
+  border-radius: 5px;
+}
+
+.botoes {
+  margin-left: 10px;
+  font-size: 14px;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ddd;
+  color: #1d1d1d;
+}
+
+.botoes:hover {
+  border: 0.5px solid #1d1d1d;
+}
+
+footer {
+  width: 100%;
+  background-color: #f2f2f2;
+  color: #aaa;
+}
+
+.cabecalho {
+  margin-top: 90px;
+}
+
+.brasil {
+  height: 50px;
+  text-align: left;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.brasil p {
+  margin: 16px 45px;
+}
+
+.links {
+  width: 100%;
+  padding: 10px 35px;
+}
+
+.links ul li {
+  display: inline-block;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.links ul li a {
+  color: #8f8f8f;
+  text-transform: capitalize;
+  font-size: 14px;
+  line-height: 24px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.links ul li a:hover {
+  text-decoration: underline;
+}
+
+.inf_direita {
+  text-align: right;
+}

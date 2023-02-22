@@ -1,0 +1,60 @@
+/* RESPONSIVIDADE */
+/* 788px ESTILO -> TABLET */
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+  .central {
+    height: 320px;
+    margin: auto;
+  }
+  
+  .cabecalho {
+    margin-top: 90px;
+  }
+
+  /* Final do Estilo para TABLET */
+}
+
+/* <= 787px ESTILO -> CELULAR  */
+@media only screen and (max-width: 787px) {
+  .central {
+    width: 350px;
+    height: 300px;
+    margin-left: -30px;
+  }
+
+  .busca {
+    width: 350px;
+  }
+
+  .busca input {
+    width: 250px;
+  }
+
+  .busca img {
+    margin-left: 0px;
+  }
+
+  .botao {
+    margin: 20px;
+    text-align: center;
+  }
+
+  .cabecalho {
+    margin-top: 100px;
+  }
+
+
+  .brasil p {
+    font-size: 12px;
+    margin-left: 35px;
+  }
+
+  .links ul li a {
+    font-size: 10px;
+  }
+
+  .inf_direita {
+    margin-top: -49px;
+    margin-right: -35px;
+  }
+  /* Final do estilo para CELULAR */
+}

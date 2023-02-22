@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+}
+
+fieldset {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+legend {
+    font-family: 'Comic Sans MS', cursive;
+}
+
+input {
+    font-family: Georgia, serif;
+}
+
+h1 {
+    font-style: italic;
+    font-family: Georgia, serif;
+    text-align: center;
+}
