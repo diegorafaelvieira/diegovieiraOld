@@ -1,7 +1,7 @@
 # Projeto Portfólio
 
 ## Estrutura Básica
-<p align="justify"> No projeto dividimos cada sessão do conteúdo em sections. Também utilizamos linhas e colunas em algumas sessões como: sobre, serviços, portfolio e contato.</p>
+<p align="justify"> No projeto dividimos cada sessão do conteúdo em sections. Também utilizamos linhas e colunas em algumas sessões como: sobre, servicos, portfolio e contato.</p>
 
 <p float="left" align="center">
   <img height="200" src="https://user-images.githubusercontent.com/31875207/220814471-f8220d4f-6f3c-4da0-8d1c-68e55b969564.png">
