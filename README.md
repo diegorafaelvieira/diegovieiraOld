@@ -6,14 +6,13 @@
 <p float="left" align="center">
   <img height="200" src="https://user-images.githubusercontent.com/31875207/220814471-f8220d4f-6f3c-4da0-8d1c-68e55b969564.png">
 </p>
-![code]()
 
 
 <br>
 <hr> 
 
 ## Bootstrap
-<p align="justify"> Aplicamos o <em>Bootstrap</em> que é um framework web com código-fonte aberto e que facilita o desenvolvimento de interfaces web responsivas. O recurso mais utilizado no projeto foram as grids(colunas e linhas).</p>
+<p align="justify"> Aplicamos o <em>Bootstrap</em> que é um framework web com código-fonte aberto e que facilita o desenvolvimento de interfaces web responsivas. O recurso mais utilizado foram as grids(colunas e linhas).</p>
 
 <p float="left" align="center">
   <img height="400" src="https://user-images.githubusercontent.com/31875207/220812087-39116dcc-4e9e-45e4-a50e-1778f70e9403.PNG">
