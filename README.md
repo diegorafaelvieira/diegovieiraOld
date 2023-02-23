@@ -1,4 +1,11 @@
 # Projeto Portfólio
+<p align="center">
+  <a align="center" href="https://diegorafaelvieira.github.io/diegovieira/" target="_blank"> <br>Link GitHub Page</a>
+</p>
+
+
+<br>
+<hr>
 
 ## Estrutura Básica
 <p align="justify"> No projeto dividimos cada sessão do conteúdo em sections. Também utilizamos linhas e colunas em algumas sessões como: sobre, servicos, portfolio e contato.</p>
@@ -32,4 +39,3 @@
 <p align="center">
   <a align="center" href="https://css.glass/" target="_blank"> <br>Link Glassmorphism CSS Generator</a>
 </p>
-
