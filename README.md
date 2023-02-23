@@ -1,1 +1,36 @@
-# diegovieira
+# Projeto Portfólio
+
+## Estrutura Básica
+<p align="justify"> No projeto dividimos cada sessão do conteúdo em sections. Também utilizamos linhas e colunas em algumas sessões como: sobre, serviços, portfolio e contato.</p>
+
+<p float="left" align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/31875207/220814471-f8220d4f-6f3c-4da0-8d1c-68e55b969564.png">
+</p>
+![code]()
+
+
+<br>
+<hr> 
+
+## Bootstrap
+<p align="justify"> Aplicamos o <em>Bootstrap</em> que é um framework web com código-fonte aberto e que facilita o desenvolvimento de interfaces web responsivas. O recurso mais utilizado no projeto foram as grids(colunas e linhas).</p>
+
+<p float="left" align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/31875207/220812087-39116dcc-4e9e-45e4-a50e-1778f70e9403.PNG">
+</p>
+
+
+<br>
+<hr>
+
+## Glasmorphism
+<p align="justify"> Foi empregado o efeito <em>Glassmorphism</em> na section inicio. </p>
+
+<p float="left" align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/31875207/220812105-45718535-d9cd-454d-8bcb-217fdffe042a.PNG">
+  <img height="450" src="https://user-images.githubusercontent.com/31875207/220812123-a1ed9782-e41e-4c1b-a11c-622502d53248.png">
+</p>
+<p align="center">
+  <a align="center" href="https://css.glass/" target"_blank"> <br>Link Glassmorphism CSS Generator</a>
+</p>
+
