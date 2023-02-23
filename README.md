@@ -31,6 +31,6 @@
   <img height="450" src="https://user-images.githubusercontent.com/31875207/220812123-a1ed9782-e41e-4c1b-a11c-622502d53248.png">
 </p>
 <p align="center">
-  <a align="center" href="https://css.glass/" target"_blank"> <br>Link Glassmorphism CSS Generator</a>
+  <a align="center" href="https://css.glass/" target="_blank"> <br>Link Glassmorphism CSS Generator</a>
 </p>
 
